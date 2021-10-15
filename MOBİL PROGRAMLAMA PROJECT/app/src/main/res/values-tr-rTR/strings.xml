@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">YBS95180053</string>
+    <string name="btn_ara_text">Ara</string>
+    <string name="btn_email_text">E-mail Gönder</string>
+    <string name="btn_sehir_text">Benim Şehrim</string>
+    <string name="btn_ders_text">Dönem Dersleri</string>
+    <string-array name="citys">
+        <item>Mamure Kalesi</item>
+        <item>Alahan Manastırı</item>
+        <item>Astım Mağarası</item>
+        <item>Adam Kayalar</item>
+    </string-array>
+    <string name="textPlace">Tarihi Bir Yer Seçin</string>
+    <string name="Derslerim">DERSLERİM</string>
+</resources>

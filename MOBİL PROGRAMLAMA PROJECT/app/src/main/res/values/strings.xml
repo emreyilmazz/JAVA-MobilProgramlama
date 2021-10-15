@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">YBS95180053</string>
+    <string name="btn_ara_text">Call</string>
+    <string name="btn_email_text">Send Email</string>
+    <string name="btn_sehir_text">My City</string>
+    <string name="btn_ders_text">Lessons</string>
+    <string name="textPlace">Choose a historical place</string>
+    <string-array name="citys">
+        <item>Mamure castle</item>
+        <item>Alahan monastery</item>
+        <item>Astım cave</item>
+        <item>Adam rocks</item>
+    </string-array>
+    <string name="Derslerim">MY LESSONS</string>
+</resources>
